@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"happy halloween~","image":"https://images.unsplash.com/photo-1571619983063-ffbbc82b30eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80","date":"2023-10-31","description":"trick or treat!","id":"adcf9697-5832-4598-b778-a656b24effb8"},{"title":"trick or treat! ","image":"https://images.unsplash.com/photo-1603252657769-b02e019cc479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80","date":"2023-10-31","description":"hahaha","id":"b7762170-4bda-4469-b6e0-a8ed9ada2618"},{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"abcd123@naver.com","password":"$2a$12$4m5nzNN/NO0aLmCEMKV0Ee3dgeMASX27eEkpwm1VP4/OpWsB3qY0.","id":"56ca8417-eff2-4d9e-ba4a-ebb753add815"},{"email":"test341@naver.com","password":"$2a$12$0WIsNrXLxnBjWy1sO4qDoufg5a/riYoRsg9Pd.qejYnNnVWK89KZG","id":"7e97931c-62e1-4347-a826-12722225beb9"},{"email":"asd123@gmail.com","password":"$2a$12$u2esmopD6KL0NDr2ZJ3OKuvFcmNgVdHSZQt7h2ifgxjmm1o/eDDL2","id":"dbd1e295-4efc-4377-90a1-8469bd70403a"}]}
